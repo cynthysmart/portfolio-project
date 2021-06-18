@@ -1,0 +1,43 @@
+.footer {
+    padding-top: 1rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 1.2rem;
+    padding-bottom:  2rem;
+}
+
+.footer a {
+    cursor: pointer;
+}
+
+.footer-list {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+.footer li {
+    display: inline-block;
+    justify-content: space-between;
+    margin: 2rem;
+    margin-bottom: 1.2rem;
+}
+
+.footer-icon a {
+    display: inline-block;
+    justify-content: space-between;
+    margin: 1em;
+}
+
+.footer-icon a {
+    width: 2rem;
+}
+
+.minicon {
+    width: 1.4rem;
+}
+.horizontal-line {
+    color: white;
+    border: 1.5px white solid;
+}
